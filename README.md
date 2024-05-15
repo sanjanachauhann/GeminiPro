@@ -42,7 +42,7 @@ To run GeminiPro locally on your machine, follow these steps:
 1. Clone the repository from GitHub: `git clone https://github.com/sanjanachauhann/GeminiPro.git`
 2. Navigate to the project directory: `cd GeminiPro`
 3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
+4. Start the development server: `npm start` or `npx expo start`
 5. Follow the instructions in the console to launch the app on your device or emulator.
 
 ### Feedback and Contributions
